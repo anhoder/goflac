@@ -16,7 +16,7 @@ import (
 )
 
 /*
-#cgo CFLAGS: -x objective-c -Wno-everything
+#cgo CFLAGS: -Wno-everything
 #cgo pkg-config: flac
 #include <stdlib.h>
 
