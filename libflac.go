@@ -16,7 +16,6 @@ import (
 )
 
 /*
-#cgo CFLAGS: -Wno-everything
 #cgo pkg-config: flac
 #include <stdlib.h>
 
